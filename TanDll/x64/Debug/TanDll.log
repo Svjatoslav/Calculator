@@ -1,0 +1,11 @@
+﻿  TanDll.cpp
+C:\Users\Le\Desktop\AppMath\CPP\Calculator\CalculatorWithDll\TanDll\TanDll.cpp(8,15): warning C4273: name: несовместимое связывание dll
+C:\Users\Le\Desktop\AppMath\CPP\Calculator\CalculatorWithDll\TanDll\TanDll.h(10,35): message : см. предыдущее определение "name"
+C:\Users\Le\Desktop\AppMath\CPP\Calculator\CalculatorWithDll\TanDll\TanDll.cpp(9,17): warning C4273: isBynary: несовместимое связывание dll
+C:\Users\Le\Desktop\AppMath\CPP\Calculator\CalculatorWithDll\TanDll\TanDll.h(11,35): message : см. предыдущее определение "isBynary"
+C:\Users\Le\Desktop\AppMath\CPP\Calculator\CalculatorWithDll\TanDll\TanDll.cpp(10,16): warning C4273: priority: несовместимое связывание dll
+C:\Users\Le\Desktop\AppMath\CPP\Calculator\CalculatorWithDll\TanDll\TanDll.h(12,34): message : см. предыдущее определение "priority"
+C:\Users\Le\Desktop\AppMath\CPP\Calculator\CalculatorWithDll\TanDll\TanDll.cpp(12,23): warning C4273: func: несовместимое связывание dll
+C:\Users\Le\Desktop\AppMath\CPP\Calculator\CalculatorWithDll\TanDll\TanDll.h(9,37): message : см. предыдущее определение "func"
+     Создается библиотека C:\Users\Le\Desktop\AppMath\CPP\Calculator\CalculatorWithDll\x64\Debug\TanDll.lib и объект C:\Users\Le\Desktop\AppMath\CPP\Calculator\CalculatorWithDll\x64\Debug\TanDll.exp
+  TanDll.vcxproj -> C:\Users\Le\Desktop\AppMath\CPP\Calculator\CalculatorWithDll\x64\Debug\TanDll.dll

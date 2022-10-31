@@ -1,0 +1,3 @@
+C:/Users/Bruhonog/Desktop/five_sem/culc/CalculatorGit/cmake-build-debug/CMakeFiles/CalculatorGit.dir
+C:/Users/Bruhonog/Desktop/five_sem/culc/CalculatorGit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bruhonog/Desktop/five_sem/culc/CalculatorGit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
